@@ -40,3 +40,16 @@ The interview endpoint is:
 ## Important
 
 The Gemini key is server-only. Never prefix it with `VITE_` and never put it in client-side code.
+
+
+
+
+
+
+
+
+
+
+
+
+
