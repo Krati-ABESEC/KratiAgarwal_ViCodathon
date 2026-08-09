@@ -225,3 +225,16 @@ Use subtle AI-themed animations, animated gradients, glowing buttons, floating p
 ### Prompt6:-
 please add a key value pair like-  "start" : "node <name of the starting point of backend>" in the script key of package. Json. then check the whole code of all the files and fix any error if exists, also tell the name of package.json file of frontend and what we have to write in the built command in render at the time of deployment of backend.
 
+### ChatGPT Prompt:-
+
+### Prompt7:-
+now analyze the given zip file of a project and tell the instruction stating the commands to be written while deploying the project on render under web services.
+
+### Prompt8:-
+As Lovable does not provide the API_KEY, so update the given zip file by adding GEMINI_API_key, and modify it such that it becomes deployment ready.
+
+### Prompt9:-
+I have seen the Gemini API key from your provided link, now tell me that what is the use of this key ,how will it help my project in working.
+
+
+
