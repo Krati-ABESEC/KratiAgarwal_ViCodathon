@@ -124,4 +124,100 @@ The following are **not required**:
 
 ### Lovable Prompts:-
 
-Prompt1:- 
+Prompt1:- Prompt:
+
+Design a modern, responsive, dark-themed AI web application called Adaptive AI Interviewer that simulates realistic technical interviews for students who have completed the 31-Day ABTalks AI Cohort. The UI should feel premium, futuristic, and recruiter-grade, using a blue, purple, and cyan AI-inspired color palette with glassmorphism effects, smooth animations, rounded cards, and clean typography.
+
+The landing page should include:
+
+Hero section with the title Adaptive AI Interviewer, a tagline like "Practice Real AI Technical Interviews Personalized to Your Learning Journey", and CTA buttons Start Interview and View Demo.
+
+Features section highlighting: Personalized Interviews, Dynamic Follow-up Questions, Multi-turn Conversations, Context Memory, Curriculum-Aware Assessment, Engineering Decision Evaluation, Structured Feedback Report, and Interview Analytics.
+
+"How It Works" section showing the workflow: Upload Candidate Profile & Curriculum → AI Analyzes Progress → Conducts Adaptive Interview → Generates Performance Report.
+
+Technologies section displaying support for RAG, Vector Databases, Prompt Engineering, Agentic AI, MCP, Production AI Systems, AI Deployment, and modern LLMs.
+
+Create an Interview Dashboard where users can:
+
+Upload Curriculum JSON- use the attached curriculum.json file
+
+Upload Candidate Profile JSON- use the attached candidate.json file
+
+View completed modules, skipped topics, learning signals, attempts, and overall progress.
+
+Start an AI interview.
+
+Design the Interview Interface similar to ChatGPT:
+
+AI interviewer chat on the left with conversational bubbles.
+
+Candidate responses on the right.
+
+Progress indicator showing Question X of 8+.
+
+Timer.
+
+Curriculum topics covered.
+
+Difficulty badge (Easy, Medium, Hard).
+
+Interview context memory indicator.
+
+Buttons for Next Question, End Interview, and Restart.
+
+The AI interviewer should:
+
+Ask at least 8 adaptive questions across 4+ curriculum days.
+
+Personalize questions based on completed missions and skipped topics.
+
+Generate intelligent follow-up questions depending on previous answers.
+
+Maintain conversation context throughout the interview.
+
+Evaluate conceptual understanding, engineering decisions, and practical reasoning.
+
+Feel like a real technical interviewer rather than a scripted chatbot.
+
+After the interview, generate a Comprehensive Feedback Dashboard containing:
+
+Overall interview score.
+
+Technical competency score.
+
+Communication score.
+
+Problem-solving score.
+
+Confidence score.
+
+Curriculum coverage visualization.
+
+Strengths.
+
+Weaknesses.
+
+Missed concepts.
+
+Personalized learning recommendations.
+
+Suggested revision topics.
+
+AI-generated interviewer summary.
+
+Option to download the report as PDF.
+
+Add an Admin/API section displaying:
+
+Required HTTP endpoint status.
+
+Request/Response JSON preview.
+
+API health indicator.
+
+Interview logs.
+
+Include a footer with project information and links to Documentation, GitHub, API Docs, and Contact.
+
+Use subtle AI-themed animations, animated gradients, glowing buttons, floating particles, and loading skeletons while ensuring the UI remains clean, intuitive, responsive, and accessible on desktop, tablet, and mobile. The entire experience should resemble a professional AI interview platform like ChatGPT combined with HackerRank and Google Interview Warmup, emphasizing adaptability, context awareness, and personalized technical evaluation.                                                                                               Consider the technical-spec.md file for reference of output
