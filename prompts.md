@@ -120,11 +120,11 @@ The following are **not required**:
 
 ### Prompt3:- can u please tell that if its written in the info that user authentication and persistent user accounts are not required . does it mean that in our project we are not required to add any database.
 
-### Prompt3:- what do you mean by AI-usage log, what has to be added in the prompt.md file.
+### Prompt4:- what do you mean by AI-usage log, what has to be added in the prompt.md file.
 
 ### Lovable Prompts:-
 
-Prompt1:- Prompt:
+### Prompt5:- Prompt:
 
 Design a modern, responsive, dark-themed AI web application called Adaptive AI Interviewer that simulates realistic technical interviews for students who have completed the 31-Day ABTalks AI Cohort. The UI should feel premium, futuristic, and recruiter-grade, using a blue, purple, and cyan AI-inspired color palette with glassmorphism effects, smooth animations, rounded cards, and clean typography.
 
@@ -221,3 +221,7 @@ Interview logs.
 Include a footer with project information and links to Documentation, GitHub, API Docs, and Contact.
 
 Use subtle AI-themed animations, animated gradients, glowing buttons, floating particles, and loading skeletons while ensuring the UI remains clean, intuitive, responsive, and accessible on desktop, tablet, and mobile. The entire experience should resemble a professional AI interview platform like ChatGPT combined with HackerRank and Google Interview Warmup, emphasizing adaptability, context awareness, and personalized technical evaluation.                                                                                               Consider the technical-spec.md file for reference of output
+
+### Prompt6:-
+please add a key value pair like-  "start" : "node <name of the starting point of backend>" in the script key of package. Json. then check the whole code of all the files and fix any error if exists, also tell the name of package.json file of frontend and what we have to write in the built command in render at the time of deployment of backend.
+
