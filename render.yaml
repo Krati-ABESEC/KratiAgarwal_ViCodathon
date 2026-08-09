@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: adaptive-interviewer
+    runtime: node
+    buildCommand: npm install --include=dev && npm run build
+    startCommand: npm start
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
