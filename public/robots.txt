@@ -12,3 +12,12 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+
+
+
+
+
+
+
+
